@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @rhystmorgan
-- 👀 I’m interested in Blockchain development
-- 🌱 I’m currently learning Haskell and Plutus
+- 👋 Hi, I’m Rhys @StoicPool
+- 🔗 Smart Contract Developer
+- 👀 Interested in Mobile Blockchain UX
+- 🌱 Currently learning Rust && Go
 - 💞️ I’m looking to collaborate on DAOs and other Blockchain Projets
 - 📫 How to reach me twitter @StoicPool
 
