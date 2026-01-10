@@ -13,6 +13,8 @@ Some of my projects:
 
 [tx-snoop] - Transaction Watcher TUI to follow dapp addresses / wallets onchain
 
+[soft-serve] - Fork of soft-serve by Charmbracelet with some extra features built in
+
 <!---
 rhystmorgan/rhystmorgan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
