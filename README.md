@@ -1,9 +1,17 @@
-- 👋 Hi, I’m Rhys @StoicPool
+- 👋 Hi, I’m Rhys @StoicPool on X
 - 🔗 Smart Contract Developer
 - 👀 Interested in Mobile Blockchain UX
-- 🌱 Currently learning Rust && Go
 - 💞️ I’m looking to collaborate on DAOs and other Blockchain Projets
-- 📫 How to reach me twitter @StoicPool
+
+Some of my projects:
+
+[okapi-aiken](https://github.com/rhystmorgan/okapi-aiken) - this is a small Aiken library of helper functions for building complex smart contracts
+
+[wallet-tui] - A Terminal wallet manager for simple assets management - initially designed for EVM chains, currently converting to Cardano
+
+[aiken-course] - Learn how to build smart contracts on Cardano with Aiken
+
+[tx-snoop] - Transaction Watcher TUI to follow dapp addresses / wallets onchain
 
 <!---
 rhystmorgan/rhystmorgan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
