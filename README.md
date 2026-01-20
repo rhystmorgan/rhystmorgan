@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Rhys @StoicPool on X
 - 🔗 Smart Contract Developer
 - 👀 Interested in Mobile Blockchain UX
-- 💞️ I’m looking to collaborate on DAOs and other Blockchain Projets
+- 💞️ I’m looking to collaborate on DAOs and other Blockchain Projects
 
 Some of my projects:
 
@@ -9,7 +9,7 @@ Some of my projects:
 
 [wallet-tui] - A Terminal wallet manager for simple assets management - initially designed for EVM chains, currently converting to Cardano
 
-[aiken-course] - Learn how to build smart contracts on Cardano with Aiken
+[aiken-course](https://github.com/rhystmorgan/aiken-course) - Learn how to build smart contracts on Cardano with Aiken
 
 [tx-snoop] - Transaction Watcher TUI to follow dapp addresses / wallets onchain
 
