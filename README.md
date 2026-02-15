@@ -11,7 +11,7 @@ Some of my projects:
 
 [aiken-course](https://github.com/rhystmorgan/aiken-course) - Learn how to build smart contracts on Cardano with Aiken
 
-[tx-snoop] - Transaction Watcher TUI to follow dapp addresses / wallets onchain
+[tx-snoop](https://github.com/rhystmorgan/tx-snoop) - Transaction Watcher TUI to follow dapp addresses / wallets onchain
 
 [soft-serve] - Fork of soft-serve by Charmbracelet with some extra features built in
 
